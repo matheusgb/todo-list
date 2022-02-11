@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#funcionamento {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  margin-bottom: 5px;
+}
+
+#buttons {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  margin-bottom: 5px;
+}
+
+#lista-tarefas {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
+.cinza {
+  background-color: rgb(128, 128, 128);
+}
+
+.completed {
+  text-decoration: line-through;
+}
